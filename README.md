@@ -1,6 +1,6 @@
-## Try it
+## Fake API
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/AckeeCZ/web-task-cookbook-fake-api](https://my-json-server.typicode.com/AckeeCZ/web-task-cookbook-fake-api)
 
 ## Use your own data
 
